@@ -1,0 +1,5 @@
+#+title: The 99 Problems On Odin
+
+
+try to solve the infamous Nine-Nine-problems Lisp,
+using the Odin Programming Language
